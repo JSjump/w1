@@ -37,3 +37,4 @@ https://www.oklink.com/zh-cn/oec-test/address/0x7EB6D597e89Fe04F9b9FC5538A29Cacc
 
 5.使用 Truffle 部署 Counter 合约 到 test 网络（goerli）（提交交易 hash）
 goerli 网络交易哈希：0xb5acb0d9c2a8108b14cb8e26d3ed801ad902363434894005da2f6ec53d65c7f1
+链接：https://goerli.etherscan.io/tx/0xb5acb0d9c2a8108b14cb8e26d3ed801ad902363434894005da2f6ec53d65c7f1
