@@ -1,0 +1,30 @@
+{
+  "name": "okcourse-1",
+  "version": "1.0.0",
+  "description": "solidit week-1-1 作业",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "gen": "node util.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSjump/w1.git"
+  },
+  "author": "JSJump",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSjump/w1/issues"
+  },
+  "homepage": "https://github.com/JSjump/w1#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "bip39": "^3.0.4",
+    "ethereumjs-util": "^7.1.4",
+    "ethereumjs-wallet": "^1.0.2",
+    "web3": "^1.7.0"
+  }
+}
